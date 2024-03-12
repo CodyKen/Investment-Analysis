@@ -1,6 +1,6 @@
-# Investment-Analysis-P1
+# Investment-Analysis
 
-Codes and reports for project 1 in FIN3080 Investment Analysis and Portfolio Management 2024 Spring.
+Codes for projects in FIN3080 Investment Analysis and Portfolio Management 2024 Spring.
 
 Academic Code:
 
